@@ -1,6 +1,6 @@
 {
   "name": "react-native-reload-android",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A great way to reload your react-native app without having to pretend your phone is a shake weight.",
   "main": "index.js",
   "scripts": {
